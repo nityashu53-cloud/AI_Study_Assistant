@@ -1,0 +1,36 @@
+# AI Study Assistant
+
+## Project Overview
+AI Study Assistant is a Python-based application powered by Google Gemini. It helps students understand topics, summarize notes, generate quizzes, and ask academic questions.
+
+## Features
+- Explain Topics
+- Summarize Notes
+- Generate Quizzes
+- Answer Questions
+- Basic Input Validation
+
+## Technologies Used
+- Python
+- Google Gemini API
+- Google Colab
+- google-genai
+
+## How to Run
+1. Open the Jupyter Notebook in Google Colab.
+2. Add the Gemini API key as `GEMINI_API_KEY` in Colab Secrets.
+3. Run the notebook cells in order.
+4. Select one of the available study options.
+5. Enter the required topic, notes, or question.
+
+## Limitations
+- AI responses may sometimes be inaccurate.
+- Internet and API access are required.
+- The current version uses a simple text-based interface.
+
+## Future Improvements
+- Graphical user interface
+- Quiz difficulty levels
+- Study history
+- Progress tracking
+- Subject-specific assistance
